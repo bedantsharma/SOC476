@@ -1,0 +1,4 @@
+- we have two census datas - 
+	- pre independence - the first census was conducted in 1872 . this census was not a in detail but subsequent censuses were far more detailed.
+	- post independence - first census was conducted in 1951 
+- some changes took place in 1961 census and introduced a household schedule to collect information relating to a persons engaged in cultivation and household industry.
