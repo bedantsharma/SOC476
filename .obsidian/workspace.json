@@ -4,9 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "4de3a59d3455f1ae",
+        "id": "c995093ce0e87db8",
         "type": "tabs",
-        "dimension": 46.060171919770774,
+        "dimension": 28.81469115191987,
         "children": [
           {
             "id": "6f84a1ac9cd4932e",
@@ -14,7 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mortality measures.md",
+                "file": "Infant Mortality Rate (IMR).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19f31e160c829d6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life expectancy.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,12 +35,12 @@
         ]
       },
       {
-        "id": "c10a1de549d9953c",
+        "id": "4de3a59d3455f1ae",
         "type": "tabs",
-        "dimension": 53.939828080229226,
+        "dimension": 71.18530884808014,
         "children": [
           {
-            "id": "3e2cd855cdfd30d1",
+            "id": "48d1a7506cb1ad49",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mortality measures.md",
+                "file": "Infant Mortality Rate (IMR).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mortality measures.md",
+                "file": "Infant Mortality Rate (IMR).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mortality measures.md"
+                "file": "Infant Mortality Rate (IMR).md"
               }
             }
           }
@@ -168,12 +180,24 @@
   "active": "6f84a1ac9cd4932e",
   "lastOpenFiles": [
     "Mortality measures.md",
-    "what is a demography?.md",
+    "Cohort Life Expectancy.md",
+    "Life expectancy.md",
     "Mortality and Fertility key measures.md",
-    "Declining Mortality.md",
     "Biological components of mortality.md",
-    "Lifespan vs Longevity.md",
+    "Infant Mortality Rate (IMR).md",
+    "resources/Pasted image 20240921191944.png",
     "soc lecture 1 to 8.pdf",
+    "Period Life Expectancy.md",
+    "Life table.md",
+    "CDR as weighted ASDR.md",
+    "Crude Death Rates.md",
+    "Age specific Death rate.md",
+    "resources/Pasted image 20240921190042.png",
+    "Limitations of CDR.md",
+    "resources/Pasted image 20240921184933.png",
+    "what is a demography?.md",
+    "Declining Mortality.md",
+    "Lifespan vs Longevity.md",
     "Longevity.md",
     "Lifespan.md",
     "What is death.md",
@@ -184,16 +208,7 @@
     "Formal Demography.md",
     "Introduction to Demography.md",
     "what are the source of demographic data.md",
-    "SHRUG data.md",
-    "Geographic Information systems (GIS).md",
-    "Spatial Demography.md",
-    "surveys.md",
     "resources/Pasted image 20240921165309.png",
-    "Who collects this type of data in India?.md",
-    "administrative data.md",
-    "vital statistics records.md",
-    "History of census in India.md",
-    "census.md",
     "resources"
   ]
 }

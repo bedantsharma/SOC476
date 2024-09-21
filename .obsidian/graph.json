@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "mortality",
@@ -18,7 +18,7 @@
       "query": "death",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 14701138
       }
     },
     {
@@ -46,6 +46,6 @@
   "repelStrength": 14.2333984375,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8374408121478226,
+  "scale": 1.0823634268325575,
   "close": true
 }
