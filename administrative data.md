@@ -1,0 +1,1 @@
+Data collected for purposes other than demography, but useful for demographic analysis
