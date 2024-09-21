@@ -2,3 +2,5 @@
 2. [[Neo-malthusian perspective]] 
 3. [[Marxist perspective]] 
 4. [[Demographic transition Theory]] 
+5. [[Theory of Demographic change and Response]] 
+6. [[Cohort size effect]] 

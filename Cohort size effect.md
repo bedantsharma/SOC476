@@ -1,0 +1,1 @@
+**Demographic metabolism**: Proposed by Norman Ryder in 1965. Over time, each age group in society is replaced by the next younger age group of people. To the extent that the new cohort is different from the one preceding it, society will change over time

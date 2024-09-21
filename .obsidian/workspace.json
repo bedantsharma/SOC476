@@ -6,7 +6,7 @@
       {
         "id": "c995093ce0e87db8",
         "type": "tabs",
-        "dimension": 48.567335243553,
+        "dimension": 44.91404011461318,
         "children": [
           {
             "id": "6f84a1ac9cd4932e",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demographic transition Theory.md",
+                "file": "Cohort size effect.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "4de3a59d3455f1ae",
         "type": "tabs",
-        "dimension": 51.43266475644699,
+        "dimension": 55.08595988538681,
         "children": [
           {
             "id": "48d1a7506cb1ad49",
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demographic transition Theory.md",
+                "file": "Cohort size effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demographic transition Theory.md",
+                "file": "Cohort size effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demographic transition Theory.md"
+                "file": "Cohort size effect.md"
               }
             }
           }
@@ -167,10 +167,15 @@
   },
   "active": "6f84a1ac9cd4932e",
   "lastOpenFiles": [
-    "resources/Pasted image 20240921204517.png",
     "soc lecture 1 to 8.pdf",
-    "Demographic transition Theory.md",
+    "Cohort size effect.md",
     "Modern theories of population.md",
+    "Reformulation of Demographic transition theory.md",
+    "Demographic transition Theory.md",
+    "Theory of Demographic change and Response.md",
+    "critique of demographic transition theory.md",
+    "Modernization theory.md",
+    "resources/Pasted image 20240921204517.png",
     "Demographic Perspectives.md",
     "TOPICS.md",
     "Marxist perspective.md",
@@ -192,12 +197,7 @@
     "resources/Pasted image 20240921200839.png",
     "Limitations of CBR.md",
     "Life expectancy.md",
-    "Life table.md",
-    "Cohort Life Expectancy.md",
-    "Period Life Expectancy.md",
-    "What are the source of demographic data.md",
     "resources/Pasted image 20240921200237.png",
-    "Fertility.md",
     "resources/Pasted image 20240921191944.png",
     "resources/Pasted image 20240921190042.png",
     "resources/Pasted image 20240921184933.png",
