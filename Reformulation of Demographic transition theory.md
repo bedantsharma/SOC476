@@ -5,4 +5,4 @@ Widely different social, economic, and demographic conditions in European countr
 
 Secularization also common as precursor to fertility decline
 - Movement from religious-based belief to a reliance on the self for one’s one well-being
-- Behavioral change spreads rapidly through social networks 
+- Behavioural change spreads rapidly through social networks 

@@ -10,7 +10,7 @@ the original model is divided roughly into three stages:
 3. Death rates are as low as they are likely to go, while fertility should go down to a level equal to the death rate.
 ![[Pasted image 20240921204517.png]]
 
-[[Modernization theory]] underlies the Demographic transition.
+[[Modernisation theory]] underlies the Demographic transition.
 
 [[critique of demographic transition theory]] 
 
