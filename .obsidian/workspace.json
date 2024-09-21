@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fertility Transition.md",
+                "file": "modern approaches to fertility control.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0de6115588b553c4",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fertility Transition.md",
+                "file": "modern approaches to fertility control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fertility Transition.md",
+                "file": "modern approaches to fertility control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fertility Transition.md"
+                "file": "modern approaches to fertility control.md"
               }
             }
           }
@@ -166,10 +167,12 @@
   },
   "active": "6f84a1ac9cd4932e",
   "lastOpenFiles": [
-    "The Innovation/Diffusion and “Cultural” Perspective.md",
     "Fertility Transition.md",
-    "The Innovation",
+    "modern approaches to fertility control.md",
+    "The Innovation or Diffusion and “Cultural” Perspective.md",
     "soc lecture 1 to 8.pdf",
+    "The Innovation/Diffusion and “Cultural” Perspective.md",
+    "The Innovation",
     "The Education of Women.md",
     "When is a society ready for the fertility transition?.md",
     "The Supply- Demand Framework.md",
@@ -194,7 +197,6 @@
     "Total fertility rate.md",
     "Introduction to Demography.md",
     "Neo-malthusian perspective.md",
-    "Malthusian perspective.md",
     "resources/Pasted image 20240921201235.png",
     "resources/Pasted image 20240921201026.png",
     "resources/Pasted image 20240921200839.png",

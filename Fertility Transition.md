@@ -4,4 +4,5 @@
 [[The Supply- Demand Framework]] 
 [[When is a society ready for the fertility transition?]]  
 [[The Education of Women]] 
-[[The Innovation\Diffusion and “Cultural” Perspective]] 
+[[The Innovation or Diffusion and “Cultural” Perspective]] 
+[[modern approaches to fertility control]] 
