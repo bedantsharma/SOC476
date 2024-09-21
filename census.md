@@ -1,6 +1,6 @@
 ==what is a census ?==
 
-ans - ==The total process of collecting, compiling, evaluating, analyzing and publishing or otherwise disseminating demographic, economic and social data pertaining, at a specified time, to all persons in a country or in a well delimited part of a country.==
+ans - ==The total process of collecting, compiling, evaluating, analysing and publishing or otherwise disseminated demographic, economic and social data pertaining, at a specified time, to all persons in a country or in a well delimited part of a country.==
 
 - censuses have a long history but have been systematically collected only since the late 18th century.
 - They have a tendency to be contentious when different groups use their numbers for political purposes.
@@ -21,4 +21,4 @@ De Facto – the enumeration classifies each person according to his or her geog
 - de facto population - people who are in a given territory on census day
 - de jure population - people who legally “belong” to a given area, regardless of whether they were there on the day of the census
 - people included in the census on the basis of usual residence - roughly defined as the place where a person usually sleeps
-## [[History of census in India]]
+## [[History of census in India]] 

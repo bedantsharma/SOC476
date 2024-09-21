@@ -1,2 +1,2 @@
 - [[what is a demography?]]
-- [[Spatial Demography]]
+- [[Spatial Demography]] 

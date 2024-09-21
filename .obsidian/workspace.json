@@ -6,14 +6,63 @@
       {
         "id": "9460c76477755228",
         "type": "tabs",
+        "dimension": 48.99713467048711,
         "children": [
           {
             "id": "6f84a1ac9cd4932e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "Maternal Mortality Ratio (MMR).md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "583eb289f3691601"
+          }
+        ]
+      },
+      {
+        "id": "0d8b380ca1b402d5",
+        "type": "tabs",
+        "dimension": 51.00286532951289,
+        "children": [
+          {
+            "id": "071ea65b111242bc",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Maternal Mortality Ratio (MMR).md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 2.523916841042013,
+                  "close": true
+                }
+              }
+            },
+            "group": "583eb289f3691601"
           }
         ]
       }
@@ -82,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maternal Mortality Ratio (MMR).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maternal Mortality Ratio (MMR).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maternal Mortality Ratio (MMR).md"
+              }
             }
           }
         ]
@@ -139,35 +192,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f84a1ac9cd4932e",
+  "active": "071ea65b111242bc",
   "lastOpenFiles": [
-    "Fertility Transition.md",
-    "Preconditions for Fertility decline.md",
-    "Proximate Determinants of Fertility.md",
-    "what is fertility transition.md",
-    "Future Directions.md",
     "soc lecture 1 to 8.pdf",
-    "what are fertility preferences.md",
-    "what is unwanted fertility.md",
-    "other measures of fertility preferences.md",
-    "London measure of Unplanned pregnancy (LMUP).md",
-    "Emotional response to fertility.md",
-    "Coomb’s Scale.md",
-    "challenges in measurement of unwanted fertility.md",
-    "Fertility preferences.md",
-    "WFS criticism.md",
-    "undesired births in India.md",
-    "TOPICS.md",
-    "Introduction to Demography.md",
-    "Fertility transition in India.md",
-    "update on national family planning program.md",
+    "Maternal Mortality Ratio (MMR).md",
+    "Mortality measures.md",
+    "Infant Mortality Rate (IMR).md",
+    "Life table.md",
+    "Period Life Expectancy.md",
+    "Cohort Life Expectancy.md",
+    "Age specific Death rate.md",
+    "CDR as weighted ASDR.md",
+    "Crude Death Rates.md",
     "Mortality.md",
+    "Declining Mortality.md",
     "What is Mortality or death.md",
     "Life expectancy.md",
-    "Declining Mortality.md",
-    "Fertility.md",
-    "what is fertility.md",
-    "Transitions Beyond Fertility Change.md",
+    "Biological components of mortality.md",
+    "Longevity.md",
+    "Lifespan vs Longevity.md",
+    "Lifespan.md",
+    "TOPICS.md",
+    "What are the source of demographic data.md",
+    "other methods of collecting data.md",
+    "surveys.md",
+    "administrative data.md",
+    "Who collects this type of data in India?.md",
+    "vital statistics records.md",
+    "census.md",
     "The Innovation",
     "resources/Pasted image 20240921230448.png",
     "resources/Pasted image 20240921204517.png",
