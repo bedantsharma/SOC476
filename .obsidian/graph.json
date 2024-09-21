@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "mortality",
@@ -48,11 +48,11 @@
   "textFadeMultiplier": -0.2,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 5,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 14.2333984375,
+  "collapse-forces": false,
+  "centerStrength": 0.480305989583333,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.9079603774517536,
+  "linkDistance": 30,
+  "scale": 0.25833544254602114,
   "close": true
 }

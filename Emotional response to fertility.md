@@ -1,0 +1,2 @@
+- Emotional responses to a pregnancy or birth are as important as other measures of fertility preference that measure subsequent childbearing
+- Emotions can be evaluated retrospectively (by asking a respondent about their response to a past pregnancy for e.g. Santelli et al. 2009; however this measure would also be susceptible to ex-post rationalization), or prospectively (this measure would try to understand the respondent’s happiness about the possibility of becoming pregnant

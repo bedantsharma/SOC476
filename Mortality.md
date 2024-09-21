@@ -1,5 +1,3 @@
-[[What is death]] 
+[[What is Mortality or death]] 
 [[Declining Mortality]] 
-[[Biological components of mortality]] 
 [[Mortality measures]] 
-[[Life expectancy]]

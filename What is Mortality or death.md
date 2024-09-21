@@ -2,3 +2,6 @@
 
 Resuscitation : the action or process of reviving someone from unconsciousness or apparent death.
 Death : unique & universal event, & as a final event, clearly defined
+
+[[Biological components of mortality]]
+[[Life expectancy]]
