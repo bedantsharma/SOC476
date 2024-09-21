@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "administrative data.md",
+                "file": "surveys.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "administrative data.md",
+                "file": "surveys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "administrative data.md",
+                "file": "surveys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "administrative data.md"
+                "file": "surveys.md"
               }
             }
           }
@@ -167,14 +167,17 @@
   },
   "active": "6f84a1ac9cd4932e",
   "lastOpenFiles": [
+    "resources/Pasted image 20240921165309.png",
+    "soc lecture 1 to 8.pdf",
+    "surveys.md",
     "what are the source of demographic data.md",
+    "Who collects this type of data in India?.md",
     "administrative data.md",
     "vital statistics records.md",
     "TOPICS.md",
     "what does modern day demography deal with.md",
     "what is a demography?.md",
     "History of census in India.md",
-    "soc lecture 1 to 8.pdf",
     "census.md",
     "Introduction to Demography.md",
     "resources"
