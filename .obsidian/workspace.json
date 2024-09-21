@@ -12,8 +12,12 @@
             "id": "6f84a1ac9cd4932e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mortality measures.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -100,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mortality measures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mortality measures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mortality measures.md"
+              }
             }
           }
         ]
@@ -159,10 +167,19 @@
   },
   "active": "6f84a1ac9cd4932e",
   "lastOpenFiles": [
-    "other methods of collecting data.md",
-    "soc lecture 1 to 8.pdf",
-    "what does modern day demography deal with.md",
+    "Mortality measures.md",
     "what is a demography?.md",
+    "Mortality and Fertility key measures.md",
+    "Declining Mortality.md",
+    "Biological components of mortality.md",
+    "Lifespan vs Longevity.md",
+    "soc lecture 1 to 8.pdf",
+    "Longevity.md",
+    "Lifespan.md",
+    "What is death.md",
+    "TOPICS.md",
+    "other methods of collecting data.md",
+    "what does modern day demography deal with.md",
     "Populations Studies.md",
     "Formal Demography.md",
     "Introduction to Demography.md",
@@ -170,7 +187,6 @@
     "SHRUG data.md",
     "Geographic Information systems (GIS).md",
     "Spatial Demography.md",
-    "TOPICS.md",
     "surveys.md",
     "resources/Pasted image 20240921165309.png",
     "Who collects this type of data in India?.md",
