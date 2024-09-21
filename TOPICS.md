@@ -1,4 +1,6 @@
 [[Introduction to Demography]]
-[[what are the source of demographic data]]
+[[What are the source of demographic data]]
 [[Spatial Demography]]
-[[Mortality and Fertility key measures]] 
+[[Mortality]] 
+[[Fertility]] 
+[[Demographic Perspectives]] 
