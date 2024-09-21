@@ -15,3 +15,5 @@ the original model is divided roughly into three stages:
 [[critique of demographic transition theory]] 
 
 [[Reformulation of Demographic transition theory]] 
+
+[[Beyond the demographic transition]] 

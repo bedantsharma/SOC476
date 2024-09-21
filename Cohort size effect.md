@@ -5,3 +5,4 @@
 - If you can improve your income as an adult compared to your childhood level, you are more likely to marry early and have several children.
 - If young people relatively scarce & business good, they will get high wages, and be more comfortable about marrying and having children.
 - Conversely, if young people are abundant in supply, even if business is good, stiff competition, difficult to maintain certain standard of living, thus delayed marriage & smaller family sizes.
+ 

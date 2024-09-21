@@ -1,0 +1,7 @@
+[[what is fertility transition]] 
+[[Proximate Determinants of Fertility]] 
+[[Preconditions for Fertility decline]] 
+[[The Supply- Demand Framework]] 
+[[When is a society ready for the fertility transition?]]  
+[[The Education of Women]] 
+[[The Innovation\Diffusion and “Cultural” Perspective]] 

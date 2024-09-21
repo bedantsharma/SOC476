@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cohort size effect.md",
+                "file": "Fertility Transition.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0de6115588b553c4",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cohort size effect.md",
+                "file": "Fertility Transition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cohort size effect.md",
+                "file": "Fertility Transition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cohort size effect.md"
+                "file": "Fertility Transition.md"
               }
             }
           }
@@ -167,36 +166,38 @@
   },
   "active": "6f84a1ac9cd4932e",
   "lastOpenFiles": [
+    "The Innovation/Diffusion and “Cultural” Perspective.md",
+    "Fertility Transition.md",
+    "The Innovation",
     "soc lecture 1 to 8.pdf",
+    "The Education of Women.md",
+    "When is a society ready for the fertility transition?.md",
+    "The Supply- Demand Framework.md",
+    "Preconditions for Fertility decline.md",
+    "Proximate Determinants of Fertility.md",
+    "resources/Pasted image 20240921230448.png",
+    "what is fertility transition.md",
+    "TOPICS.md",
+    "Second Demographic transition.md",
+    "Beyond the demographic transition.md",
+    "Demographic transition Theory.md",
     "Cohort size effect.md",
     "Modern theories of population.md",
     "Reformulation of Demographic transition theory.md",
-    "Demographic transition Theory.md",
     "Theory of Demographic change and Response.md",
     "critique of demographic transition theory.md",
     "Modernization theory.md",
     "resources/Pasted image 20240921204517.png",
     "Demographic Perspectives.md",
-    "TOPICS.md",
     "Marxist perspective.md",
     "Critique of Marx.md",
     "Total fertility rate.md",
     "Introduction to Demography.md",
     "Neo-malthusian perspective.md",
     "Malthusian perspective.md",
-    "Critiques of Malthus.md",
-    "preventive checks.md",
-    "positive checks.md",
     "resources/Pasted image 20240921201235.png",
-    "Fertility Measures.md",
-    "Age specific fertility rage(ASFR).md",
     "resources/Pasted image 20240921201026.png",
-    "General fertility rate (GFR).md",
-    "Crude birth rate (CBR).md",
-    "Improvements over CBR.md",
     "resources/Pasted image 20240921200839.png",
-    "Limitations of CBR.md",
-    "Life expectancy.md",
     "resources/Pasted image 20240921200237.png",
     "resources/Pasted image 20240921191944.png",
     "resources/Pasted image 20240921190042.png",
