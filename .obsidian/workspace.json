@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4e99ee7254566b65",
+        "id": "8339aa5a17a12a61",
         "type": "tabs",
         "children": [
           {
-            "id": "9cd50835f3618c95",
+            "id": "0a8c44ca760c250e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0de6115588b553c4",
@@ -139,9 +138,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cd50835f3618c95",
+  "active": "0a8c44ca760c250e",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "2024-09-24.md",
+    "Mortality measures.md",
+    "Life table.md",
+    "Age specific Death rate.md",
+    "Mortality.md",
     "TOPICS.md",
+    "Émile Durkheim.md",
+    "Social capillarity.md",
+    "Modern theories of population.md",
+    "Demographic Perspectives.md",
     "Fertility preferences.md",
     "what are fertility preferences.md",
     "other measures of fertility preferences.md",
@@ -157,16 +166,6 @@
     "Fertility Transition.md",
     "Transitions Beyond Fertility Change.md",
     "modern approaches to fertility control.md",
-    "The Innovation or Diffusion and “Cultural” Perspective.md",
-    "The Education of Women.md",
-    "When is a society ready for the fertility transition?.md",
-    "The Supply- Demand Framework.md",
-    "Preconditions for Fertility decline.md",
-    "Proximate Determinants of Fertility.md",
-    "what is fertility transition.md",
-    "Demographic Perspectives.md",
-    "Modern theories of population.md",
-    "Cohort size effect.md",
     "soc lecture 1 to 8.pdf",
     "The Innovation",
     "resources/Pasted image 20240921230448.png",
