@@ -4,3 +4,5 @@
 - This transition would be associated with a postponement of marriage, rise in single living, cohabitation etc. (for e.g. Lesthaeghe and Neels 2002)
 
 [[Second Demographic transition]] 
+
+#demographicPrespective

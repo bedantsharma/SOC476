@@ -8,3 +8,4 @@ Assume you and partner(s) are fully fecund;
 	- Poor nutrition (raises age at menarche, and also produces anovulatory cycles in which no egg is released)
 - “Natural fertility” may be closer to 6 or 7 children per woman (matching the high mortality)
 - The Hutterites have come the closest with 11 children per woman in the 1930s:
+#fertility

@@ -6,3 +6,4 @@ it involves later start to childbearing and an earlier end to childbearing.
 
 ==Not to early , not too close and not too many==
 
+#fertilityTransition

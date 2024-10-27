@@ -3,3 +3,4 @@
 - Ideation’, defined ‘as new ways of thinking that diffuse in a society by means of social interaction’, was introduced by demographers as an alternative explanation of fertility transition.
 - Cultural innovation takes place in higher social strata as a result of privilege, education, and resources; lower social strata adopt new preferences through imitation
 - Rigid social stratification or closure of class or caste inhibits downward cultural mobility and thus inhibits diffusion of low fertility ideas
+#fertilityTransition

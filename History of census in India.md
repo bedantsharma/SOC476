@@ -6,3 +6,4 @@
 	- first part collected information on religion, SC/ST status, language spoken, drinking water, electricity, toilets etc.
 	- In the second part, characteristics of each individual was collected.
 - starting from 2001, the individual slip has been dropped and only the household schedule is canvassed and The questions which were canvassed in Household Schedule and Individual Slips in previous two censuses were put together in one schedule named as Household Schedule.
+#sources

@@ -7,5 +7,6 @@ Mid-year population is seen as a good approximation to the population exposed to
 
 [[CDR as weighted ASDR]]
 
+#mortality
 
 

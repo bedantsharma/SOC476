@@ -3,3 +3,5 @@
 - Life span is almost entirely a biological phenomenon
 - Longevity has biological and social components.
 Populations with high mortality are those with high morbidity, but this is not a one-to-one relationship—we may live longer even though not being very healthy.
+
+#mortality

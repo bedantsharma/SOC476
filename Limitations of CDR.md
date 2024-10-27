@@ -5,3 +5,4 @@
 - In most populations, mortality rates are very high in infancy, fall to a low-point in late childhood (around the age of 10), and increase with increasing age thereafter.
 - Differences between populations in the Crude Death Rate may reflect differences in their age structures rather than accurately reflect differences in individuals’ propensity to die given their ages.
 - Thus, it is important that mortality comparisons across countries should always use mortality indicators that are adjusted for differences in age composition
+#mortality

@@ -7,3 +7,5 @@ The denominator is taken as the (mid-year) population aged between x and x+n
 usually n = 5
 
 [[CDR as weighted ASDR]]
+
+#mortality

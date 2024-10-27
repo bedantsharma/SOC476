@@ -4,3 +4,4 @@
 3. Availability and cost of contraception
 Factors that impact the onset and speed of the fertility transition: (A) Demand for children; (B) Supply of children; (C) Costs of fertility regulation
 
+#fertilityTransition

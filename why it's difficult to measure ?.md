@@ -7,3 +7,4 @@
 - Fertility behavior is more influenced by preferences, motivations, social status, etc., than is mortality
 - The female and male populations exposed to the risk of childbearing are not ordinarily decreased by having a birth
 - In at least one instance, deaths are more difficult to analyze than births: Birth affect only initial age of the age distribution, whereas deaths affect the entire age distribution
+#fertility

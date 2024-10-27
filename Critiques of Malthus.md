@@ -10,3 +10,5 @@ Scholars have critiqued 3 main aspects of Malthus’s theory:
 - Charles Darwin’s thinking was stimulated by this error in Malthus’ reasoning. Humans were no different than all living organisms, including corn, in the ability to increase at a geometric rate. We are all competing for space and resources.
 - Marx and Engels rejected his conclusion that poverty was an inevitable result of population growth.
 - Belief that moral restraint (avoiding intercourse until marriage and only marrying when you can afford the subsequent children) was the only acceptable preventive check.
+
+#demographicPrespective

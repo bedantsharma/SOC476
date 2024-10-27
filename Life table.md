@@ -4,3 +4,4 @@ This was first used in 1662 by John Graunt to uncover patterns of mortality in L
 
 [[Life expectancy]]
 
+#mortality

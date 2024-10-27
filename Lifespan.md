@@ -8,3 +8,4 @@ One way to check age exaggeration is to compare census records with the age repo
 
 Life expectancy for the world as a whole is estimated to be around 73 years in 2023
 
+#mortality

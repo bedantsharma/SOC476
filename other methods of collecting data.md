@@ -17,3 +17,4 @@
 1. High vaccine acceptance but low coverage: Low vaccination rates contrast with high levels of vaccine acceptance in SSA through the pandemic
 2. ‘Vaccine acceptance ranged from near-universal acceptance in Ethiopia in 2020 to just below seven in ten people in Burkina Faso in 2021 and never dipped below 83% when averaged across the countries we study in any of the three years of data collection’
 3. Changes in individual’s vaccine attitudes over time: ‘Across countries, three in ten respondents (29.8%) changed their attitude about COVID-19 vaccination over time'
+#sources

@@ -8,3 +8,5 @@ Definition: “a way of relating basic information to theories about how the wor
 
 
 [[Modern theories of population]] 
+
+#demographicPrespective 

@@ -4,3 +4,4 @@ When the supply begins to exceed the demand, then the motivation to limit fertil
 
 - mortality declines and children cannot be afforded
 - And/ or the opportunity costs of children rise (from what are they good for, to how good are they ?)
+#fertilityTransition

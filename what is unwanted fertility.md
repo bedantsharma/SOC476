@@ -9,3 +9,5 @@ according to NFHS india:
 - Wanted birth: Any birth less than or equal to the number of children a woman reported as her ideal number.
 
 [[challenges in measurement of unwanted fertility]] 
+
+#fertilityPreferencesMeasures

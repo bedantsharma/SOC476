@@ -11,3 +11,4 @@
 	5. duration of the fertile period
 ![[Pasted image 20240921230448.png]]
 
+#fertilityTransition

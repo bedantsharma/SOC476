@@ -6,3 +6,4 @@
 - Calculated by summing the ASFR’s and multiplying the result by the width of the age interval of the ASFR’s. n = usual width of the age-interval, Usually, n=5
 - Useful in interpreting the cumulative fertility implied by a given set of ASFR’s
 - No. of children who would be born per woman (or per 1,000 women) if she/they were to pass through the childbearing years bearing children according to a current schedule of age-specific fertility rates.
+#fertility

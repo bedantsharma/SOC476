@@ -7,3 +7,5 @@ Malthus said there are two types of checks on population:
 2. [[preventive checks]] 
  
 [[Critiques of Malthus]] 
+
+#demographicPrespective

@@ -5,3 +5,4 @@
 - For a sample of the population 
 	- [[surveys]]
 	- [[other methods of collecting data]] 
+#sources

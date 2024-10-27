@@ -5,3 +5,5 @@ The numerator is the number of births in year z; and the denominator is the midy
 The age range is from 15 – 44 years of age.
 
 [[Improvements over CBR]] 
+
+#fertility

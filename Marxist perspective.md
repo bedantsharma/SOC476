@@ -13,3 +13,5 @@ The problem lies in the distribution of goods, not the production.
 - In a well-ordered society (unlike the capitalist society), if there were more people, there ought to be more wealth, not more poverty.
 
 [[Critique of Marx]] 
+
+#demographicPrespective

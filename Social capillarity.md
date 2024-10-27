@@ -3,3 +3,5 @@ Late 19th century French demographer who felt he discovered a new principle of p
 - To ascend the social hierarchy requires that sacrifices be made, including using birth control to have a small family
 - He was opposed to this idea because he thought that France’s birth rate was too low.
 [[Émile Durkheim]] 
+
+#demographicPrespective

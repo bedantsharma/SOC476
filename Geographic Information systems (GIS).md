@@ -3,3 +3,4 @@
 -  Geo-referencing data to places on the map gives us the ability to combine different types of data for the same place, and for more than one time.
 - It enhances our ability to analyze demographic changes over time and space.
 [[SHRUG data]]
+#intro

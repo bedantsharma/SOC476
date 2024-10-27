@@ -5,3 +5,4 @@
 5. [[Period Life Expectancy]] 
 6. [[Infant Mortality Rate (IMR)]] 
 7. [[Maternal Mortality Ratio (MMR)]] 
+#mortality

@@ -5,3 +5,5 @@ The Government accords top priority to the National Family Planning Program
 4. Post-partum Intra-uterine contraceptive device (PPIUCD) services are provided post delivery.
 5. Scheme for Home Delivery of contraceptives by ASHAs at doorstep of beneficiaries.
 6. Family Planning Logistics Management Information System (FP-LMIS) to ensure last mile availability of family planning commodities across all the levels of health facilities.
+
+#fertilityTransitionInIndia

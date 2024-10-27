@@ -4,3 +4,4 @@
 	- Levels of mortality also higher
 	- Transition occurred due to internal economic development, not as a result of foreign intervention
 	- Modernisation did not provide the most accurate picture of what actually occurred in developed countries
+#demographicPrespective

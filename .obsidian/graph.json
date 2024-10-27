@@ -8,38 +8,73 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "mortality",
+      "query": "tag:#mortality  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 6819085
       }
     },
     {
-      "query": "death",
+      "query": "tag:#sources  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14725458
       }
     },
     {
-      "query": "data",
+      "query": "tag:#fertilityTransition  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 12942717
       }
     },
     {
-      "query": "population ",
+      "query": "tag:#intro  ",
       "color": {
         "a": 1,
         "rgb": 5431378
       }
     },
     {
-      "query": "fertility",
+      "query": "tag:#demographicPrespective  ",
       "color": {
         "a": 1,
-        "rgb": 1582009
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#fertilityPreferencesMeasures path:",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#fertility  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#fertilityTransitionInIndia  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#fertilityPreferences  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "tag:#fertilityPreferencesMeasures  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
       }
     }
   ],
@@ -49,10 +84,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
-  "centerStrength": 0.480305989583333,
+  "centerStrength": 0.725911458333333,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 2.182325299400606,
+  "scale": 0.5406842109280504,
   "close": true
 }

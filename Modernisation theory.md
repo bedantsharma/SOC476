@@ -10,3 +10,4 @@
 - Application in the non – European countries - mortality decline has preceded fertility decline and has led to population growth. However, theory offers little insight about the pace and timing of fertility decline.
 - Macro-level theory that sees human actors as being buffeted by changing social institutions. Individuals did not deliberately lower their risk of death to precipitate the modern decline in mortality. Society wide increases in income and improved public health infrastructure brought about this change.
 
+#demographicPrespective

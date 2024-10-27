@@ -1,4 +1,4 @@
-[[Introduction to Demography]]
+[[Introduction to Demography]] 
 [[What are the source of demographic data]]
 [[Mortality]] 
 [[Fertility]] 

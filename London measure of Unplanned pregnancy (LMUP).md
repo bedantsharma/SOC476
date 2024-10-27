@@ -2,3 +2,4 @@
 - Total score 12
 - Increase in the score indicates a higher degree of pregnancy intention
 - One interpretation: score 0–3 as an indicator of unplanned pregnancy, scores of 4–9 to represent uncertain states and scores of 10–12 as planned pregnancy
+#fertilityPreferencesMeasures

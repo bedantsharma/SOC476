@@ -22,3 +22,5 @@ De Facto – the enumeration classifies each person according to his or her geog
 - de jure population - people who legally “belong” to a given area, regardless of whether they were there on the day of the census
 - people included in the census on the basis of usual residence - roughly defined as the place where a person usually sleeps
 ## [[History of census in India]] 
+
+#sources
