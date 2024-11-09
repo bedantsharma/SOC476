@@ -6,6 +6,9 @@ import torch.nn as nn
 import numpy as np
 from sklearn.preprocessing import MinMaxScaler
 import matplotlib.pyplot as plt
+from e_model import EnhancedMortalityLSTM
+from data_prep import prepare_data_with_delay
+from train import train_enhanced_model
 
 # Load the data
 data = pd.read_csv('some_data.csv',index_col=0)
@@ -37,157 +40,15 @@ infant_death = (infant_death - np.min(infant_death))/(np.max(infant_death) - np.
 # plt.legend()
 # plt.show()
 
-
-
-class EnhancedMortalityLSTM(nn.Module):
-    def __init__(self, input_size, hidden_size, num_layers, output_size, dropout_rate=0.2):
-        super(EnhancedMortalityLSTM, self).__init__()
-        self.hidden_size = hidden_size
-        self.num_layers = num_layers
-        
-        # Bidirectional LSTM layers
-        self.lstm1 = nn.LSTM(
-            input_size=input_size,
-            hidden_size=hidden_size,
-            num_layers=num_layers,
-            batch_first=True,
-            bidirectional=True,
-            dropout=dropout_rate if num_layers > 1 else 0
-        )
-        
-        # Attention mechanism
-        self.attention = nn.Sequential(
-            nn.Linear(hidden_size * 2, hidden_size),
-            nn.Tanh(),
-            nn.Linear(hidden_size, 1)
-        )
-        
-        # Additional layers for better feature extraction
-        self.feature_layers = nn.Sequential(
-            nn.Linear(hidden_size * 2, hidden_size),
-            nn.ReLU(),
-            nn.Dropout(dropout_rate),
-            nn.Linear(hidden_size, hidden_size // 2),
-            nn.ReLU(),
-            nn.Dropout(dropout_rate)
-        )
-        
-        # Output layer
-        self.fc = nn.Linear(hidden_size // 2, output_size)
-        
-    def attention_net(self, lstm_output):
-        attention_weights = self.attention(lstm_output)
-        attention_weights = torch.softmax(attention_weights, dim=1)
-        context = torch.sum(attention_weights * lstm_output, dim=1)
-        return context
-        
-    def forward(self, x):
-        # Initialize hidden state
-        h0 = torch.zeros(self.num_layers * 2, x.size(0), self.hidden_size).to(x.device)
-        c0 = torch.zeros(self.num_layers * 2, x.size(0), self.hidden_size).to(x.device)
-        
-        # LSTM forward pass
-        lstm_out, _ = self.lstm1(x, (h0, c0))
-        
-        # Apply attention
-        attn_output = self.attention_net(lstm_out)
-        
-        # Feature extraction
-        features = self.feature_layers(attn_output)
-        
-        # Final output
-        output = self.fc(features)
-        return output
-
-def prepare_data_with_delay(CDR, male_death, female_death, infant_death, sequence_length, delay=3):
-    """
-    Prepare data with consideration for time delay effects
-    """
-    data = np.column_stack((CDR, male_death, female_death, infant_death))
-    X, y = [], []
-    
-    for i in range(len(data) - sequence_length - delay):
-        # Input sequence
-        seq = data[i:i + sequence_length]
-        # Target is 'delay' steps ahead
-        target = data[i + sequence_length + delay]
-        X.append(seq)
-        y.append(target)
-    
-    X = np.array(X)
-    y = np.array(y)
-    
-    # Convert to PyTorch tensors
-    X = torch.FloatTensor(X)
-    y = torch.FloatTensor(y)
-    
-    # Split into train and validation sets (80-20 split)
-    train_size = int(len(X) * 0.8)
-    X_train, X_val = X[:train_size], X[train_size:]
-    y_train, y_val = y[:train_size], y[train_size:]
-    
-    return X_train, y_train, X_val, y_val
-
-def train_enhanced_model(model, X_train, y_train, X_val, y_val, num_epochs, learning_rate):
-    criterion = nn.MSELoss()
-    optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate, weight_decay=0.01)
-    scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, mode='min', factor=0.5, patience=20, verbose=True)
-    
-    train_losses = []
-    val_losses = []
-    best_val_loss = float('inf')
-    patience = 50
-    patience_counter = 0
-    
-    for epoch in range(num_epochs):
-        # Training
-        model.train()
-        optimizer.zero_grad()
-        outputs = model(X_train)
-        loss = criterion(outputs, y_train)
-        loss.backward()
-        torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
-        optimizer.step()
-        train_losses.append(loss.item())
-        
-        # Validation
-        model.eval()
-        with torch.no_grad():
-            val_outputs = model(X_val)
-            val_loss = criterion(val_outputs, y_val)
-            val_losses.append(val_loss.item())
-        
-        # Learning rate scheduling
-        scheduler.step(val_loss)
-        
-        # Early stopping
-        if val_loss < best_val_loss:
-            best_val_loss = val_loss
-            patience_counter = 0
-            # Save best model
-            torch.save(model.state_dict(), 'best_model.pth')
-        else:
-            patience_counter += 1
-            if patience_counter >= patience:
-                print(f'Early stopping at epoch {epoch+1}')
-                break
-        
-        if (epoch + 1) % 50 == 0:
-            print(f'Epoch [{epoch+1}/{num_epochs}], Train Loss: {loss.item():.4f}, Val Loss: {val_loss.item():.4f}')
-    
-    # Load best model
-    model.load_state_dict(torch.load('best_model.pth'))
-    return train_losses, val_losses
-
 # Usage example:
 sequence_length = 10
-hidden_size = 128  # Increased hidden size
-num_layers = 3     # Increased number of layers
+hidden_size = 12  # Increased hidden size
+num_layers = 1     # Increased number of layers
 learning_rate = 0.001
-num_epochs = 1000  # Increased number of epochs
+num_epochs = 100  # Increased number of epochs
 input_size = 4
 output_size = 4
-delay = 3  # Time delay parameter
+delay = 10  # Time delay parameter
 
 # Prepare the data with delay consideration
 X_train, y_train, X_val, y_val = prepare_data_with_delay(
