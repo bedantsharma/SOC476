@@ -52,6 +52,9 @@ class EnhancedMortalityLSTM(nn.Module):
         lstm_out, _ = self.lstm1(x, (h0, c0))
         
         # Apply attention
+        # print("**************************************")
+        # print(f'the dim of lstm out is {lstm_out.shape}')
+        # print("**************************************")
         attn_output = self.attention_net(lstm_out)
         
         # Feature extraction

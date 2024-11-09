@@ -42,12 +42,12 @@ infant_death = (infant_death - np.min(infant_death))/(np.max(infant_death) - np.
 
 # Usage example:
 sequence_length = 10
-hidden_size = 12  # Increased hidden size
+hidden_size = 4  # Increased hidden size
 num_layers = 1     # Increased number of layers
 learning_rate = 0.001
-num_epochs = 100  # Increased number of epochs
+num_epochs = 1000  # Increased number of epochs
 input_size = 4
-output_size = 4
+output_size = 4 
 delay = 10  # Time delay parameter
 
 # Prepare the data with delay consideration
@@ -89,7 +89,7 @@ with torch.no_grad():
     predictions = []
 
     # Predict for the next 5 years (or any desired number of years)
-    num_years_to_predict = 5
+    num_years_to_predict = 25
     for _ in range(num_years_to_predict):
         pred = model(last_seq).cpu().numpy()
         predictions.append(pred)
