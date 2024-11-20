@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#mortality  ",
@@ -90,18 +90,25 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "tag:#internationalMigration  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711756
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -0.2,
-  "nodeSizeMultiplier": 2.32669270833333,
+  "nodeSizeMultiplier": 2.33147786458333,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
-  "centerStrength": 0.6767578125,
-  "repelStrength": 15.1985677083333,
+  "centerStrength": 0.8145751953125,
+  "repelStrength": 16.98486328125,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.33284422838679534,
+  "linkDistance": 31,
+  "scale": 0.36959941273348795,
   "close": true
 }

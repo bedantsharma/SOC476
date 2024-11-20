@@ -1,3 +1,4 @@
+#migration1 
  migration is selective and only a selective portion of population migrates.
 The height and prosperity to migrated certain stages of life cycle is important in the selection of migrants.
 

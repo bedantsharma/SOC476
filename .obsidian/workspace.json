@@ -4,51 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6e0b6611b0148fb0",
+        "id": "3b97b759bd7f5730",
         "type": "tabs",
-        "dimension": 35.95988538681949,
         "children": [
           {
-            "id": "d2a77bf159fccd5a",
+            "id": "d5971aec9b1dc4e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "selection in migration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "selection in migration"
-            }
-          },
-          {
-            "id": "7dfdedfc3d05f6ae",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
-        "id": "65aa5d46271c7b3a",
-        "type": "tabs",
-        "dimension": 64.04011461318052,
-        "children": [
-          {
-            "id": "65b2f3dba78de7cf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "postMidsem.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "postMidsem"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -190,37 +156,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2a77bf159fccd5a",
+  "active": "d5971aec9b1dc4e7",
   "lastOpenFiles": [
-    "Migration 1.md",
-    "selection in migration.md",
-    "Theories of migration.md",
-    "Community and kinship ties model.md",
     "postMidsem.pdf",
-    "personal characteristics model.md",
-    "information model.md",
-    "physical cost model.md",
-    "individual expectations model.md",
-    "Distance model.md",
-    "Conceptual Model.md",
-    "resources/Pasted image 20241120183208.png",
-    "After midsem.md",
-    "resources/Pasted image 20240921184933.png",
-    "Push Pull Theory.md",
-    "When does migration occur.md",
-    "E.G. Ravenstein.md",
-    "migration Rates.md",
-    "Definitions and concepts.md",
+    "Unauthorised International Migration.md",
     "Migration.md",
-    "TOPICS.md",
-    "Migration effectiveness.md",
-    "Gross migration.md",
-    "Commuting.md",
-    "Migration permanence.md",
+    "International Migration.md",
+    "Economic effects of international migration.md",
+    "Why does migration perpetuates.md",
+    "Cumulative causation.md",
+    "Recent Upheavals.md",
+    "Institutional Theory.md",
+    "Migration network theory.md",
+    "Theories of international migration.md",
+    "World system theory.md",
+    "Dual labor market theory.md",
+    "Neoclassical economic model.md",
+    "selection in migration.md",
+    "New Economics of migration.md",
+    "Reasons for migration.md",
+    "Chain migration.md",
+    "Step migration.md",
+    "Current Trends.md",
+    "resources/Pasted image 20241121004442.png",
+    "War upheavals.md",
+    "Historical International migration trends.md",
+    "Migration 1.md",
     "stock versus flow.md",
-    "Return migrant.md",
-    "Area of Destination.md",
-    "Area of origin.md",
+    "Community and kinship ties model.md",
+    "Floating population of china.md",
+    "resources/Pasted image 20241120183208.png",
+    "resources/Pasted image 20240921184933.png",
     "Physical versus Imagined Communities_d4e9b4e8-bb16-4fa1-9490-443a48d3a200.pdf",
     "Male out-migration and the health of left-behind wives in India_3056b0f3-a660-4f33-9765-13fb24060c57.pdf",
     "postMidsem 1.pdf",
@@ -234,7 +200,6 @@
     "resources/Pasted image 20240921201026.png",
     "resources/Pasted image 20240921200839.png",
     "resources/Pasted image 20240921200237.png",
-    "resources/Pasted image 20240921191944.png",
     "resources"
   ]
 }
