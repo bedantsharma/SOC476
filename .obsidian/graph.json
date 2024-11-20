@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#mortality  ",
@@ -18,7 +18,7 @@
       "query": "tag:#sources  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 16767114
       }
     },
     {
@@ -76,18 +76,32 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "tag:#migration1 tag:#definitions  ",
+      "color": {
+        "a": 1,
+        "rgb": 14719243
+      }
+    },
+    {
+      "query": "tag:#migration1  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -0.2,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 2.32669270833333,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
-  "centerStrength": 0.725911458333333,
-  "repelStrength": 20,
+  "centerStrength": 0.6767578125,
+  "repelStrength": 15.1985677083333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.5963470498008097,
+  "scale": 0.33284422838679534,
   "close": true
 }
