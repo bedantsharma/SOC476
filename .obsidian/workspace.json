@@ -6,6 +6,7 @@
       {
         "id": "5bd3b0241a98095f",
         "type": "tabs",
+        "dimension": 24.785100286532952,
         "children": [
           {
             "id": "c4cb787465b29c42",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "what's slowing down agglomeration economies.md",
+                "file": "the third generation of theories life course.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "what's slowing down agglomeration economies"
+              "title": "the third generation of theories life course"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "553517b4c8a9d41d",
         "type": "tabs",
+        "dimension": 75.21489971346705,
         "children": [
           {
             "id": "59474c9b8f1c681d",
@@ -181,32 +183,35 @@
   "active": "c4cb787465b29c42",
   "lastOpenFiles": [
     "postMidsem.pdf",
-    "what's slowing down agglomeration economies.md",
+    "the third generation of theories life course.md",
+    "theory about ageing.md",
+    "the second generation of theories, social conflict.md",
+    "the first generation of the functionalism.md",
+    "activity theory.md",
+    "disengagement theory.md",
+    "Ageing.md",
+    "how do people age?.md",
+    "social  ageing.md",
+    "resources/Pasted image 20241122012747.png",
+    "psychological ageing.md",
+    "biological age.md",
+    "resources/Pasted image 20241122012526.png",
+    "The graying of society.md",
+    "resources/Pasted image 20241122012428.png",
+    "TOPICS.md",
     "Main urban trends.md",
+    "Key demographic trends at city level.md",
+    "policy implications.md",
+    "where are the effects.md",
+    "what's slowing down agglomeration economies.md",
     "Agglomeration economies.md",
     "why is  urban migration low ?.md",
     "Limited rural to urban migration.md",
-    "TOPICS.md",
     "Trends South Asia.md",
     "resources/Pasted image 20241122005611.png",
     "Missing Women.md",
-    "where are the effects.md",
     "Variation across countries.md",
     "Aging.md",
-    "Fertility in India.md",
-    "Youth Bulge.md",
-    "Demographic Trends and Urbanisation.md",
-    "Sub saharan Africa.md",
-    "Europe and central Asia.md",
-    "South Asia.md",
-    "East Asia and pacific.md",
-    "Middle East and North Africa.md",
-    "Latin America and Caribbean.md",
-    "relation between migration and urbanisation.md",
-    "Why study urbanisation.md",
-    "Background.md",
-    "Migration.md",
-    "Migration 2.md",
     "resources/Pasted image 20241121145321.png",
     "resources/Pasted image 20241121004442.png",
     "resources/Pasted image 20241120183208.png",
@@ -219,9 +224,6 @@
     "soc lecture 1 to 8.pdf",
     "The Innovation",
     "resources/Pasted image 20240921230448.png",
-    "resources/Pasted image 20240921204517.png",
-    "resources/Pasted image 20240921201235.png",
-    "resources/Pasted image 20240921201026.png",
     "resources"
   ]
 }

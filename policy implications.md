@@ -1,0 +1,3 @@
+- there is a pressing need for institutions to address the important interaction between urbanisation and demographic change.
+- South Asia cities become large and more economically important proactive and effective urban management is urgently needed
+- most countries, local garment system struggles with unclear or overlapping institution roles Limited, formal functional and revenue roles and insufficient autonomy to make independent decisions on important matters
