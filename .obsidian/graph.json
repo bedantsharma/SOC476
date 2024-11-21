@@ -97,6 +97,13 @@
         "a": 1,
         "rgb": 16711756
       }
+    },
+    {
+      "query": "tag:#urbanisation  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
     }
   ],
   "collapse-display": true,
@@ -109,6 +116,6 @@
   "repelStrength": 16.98486328125,
   "linkStrength": 1,
   "linkDistance": 31,
-  "scale": 0.36959941273348795,
+  "scale": 0.5871766721611817,
   "close": true
 }
