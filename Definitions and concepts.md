@@ -10,7 +10,7 @@ Define the following-
 8. [[Migration permanence]] 
 9. [[Commuting]] 
 10. [[Gross migration]] 
-11. [[Migration effectiveness]]
+11. [[Migration effectiveness]] 
 
 
 

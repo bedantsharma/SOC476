@@ -1,0 +1,4 @@
+#southAsia 
+- On average, Indian women in urban areas have their first child 1.5 years later than women in rural areas. Among Indian women ages 25 to 49 who live in urban areas, the median age at first birth is 22.3. Among similarly aged women in rural areas, it is 20.8, according to the 2019 NFHS.
+- Women with more education and more wealth also generally have children at later ages. The median age at first birth is 24.9 among Indian women with 12 or more years of schooling, compared with 19.9 among women with no schooling. Similarly, the median age at first birth is 23.2 for Indian women in the highest wealth quintile, compared with 20.3 among women in the lowest quintile.
+- Among India’s major religious groups, the median age of first birth is highest among Jains at 24.9 and lowest among Muslims at 20.8.

@@ -2,7 +2,7 @@
 
 ## Model subclass 1 (Starter models)
 [[E.G. Ravenstein ]] model
-[[Push Pull Theory]]  by Everett S. lee
+[[Push Pull Theory]]  and Everett S. lee
 [[Conceptual Model]] 
 
 
@@ -18,11 +18,10 @@ Models of Migration The main theoretical models seek to explain internal migrati
 
 [[Distance model]] 
 [[individual expectations model]] 
-[[physical cost model]]
+[[physical cost model]] 
 [[information model]]
-[[personal characteristics model]]
-[[Community and kinship ties model]]
-
+[[personal characteristics model]] 
+[[Community and kinship ties model]] 
 
 All these models focus mainly on individuals and why individuals move or do not move.
 

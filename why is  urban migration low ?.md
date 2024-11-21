@@ -1,0 +1,3 @@
+- Poor liveability in South Asian cities might explain the lower than expected rates of rural to urban migration and the generally slow pace of urbanisation compared to other regions.
+- Weak pull factors of major cities can slow a country’s demographic transition toward a modern economy.
+- Congestion forces arising from inadequate urban infrastructure, services, land, housing markets, and environment work against agglomeration economies : they stall city growth and urbanisation, stifle productivity and real wage growth, and slow the demographic transition toward a modern economy. (for e.g. - Dhaka and Karachi).

@@ -2,7 +2,7 @@
 when the population is able to overcome the intervening obstacles and is willing to move.
 ### Intervening obstacles
 - Distance of destination, cost of getting there, poor health, and other factors may inhibit migration
-- Difficult to predict, any wide scale, however, and so we tend to lump them together with the overall “costs” of moving and concentrate our attention on explaining the desire to move
+- Difficult to predict, on wide scale. however we tend to lump them together with the overall “costs” of moving and concentrate our attention on explaining the desire to move
 - Economic variables dominate most explanations of why people move
 
 Everett S. Lee proposed a comprehensive theory of migration in 1966 in the journal Demography. The main tenets of his theory were:

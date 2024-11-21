@@ -4,44 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "302fdb1017df96d8",
+        "id": "5bd3b0241a98095f",
         "type": "tabs",
-        "dimension": 43.194842406876795,
         "children": [
           {
-            "id": "d5971aec9b1dc4e7",
+            "id": "c4cb787465b29c42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "East Asia and pacific.md",
+                "file": "what's slowing down agglomeration economies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "East Asia and pacific"
-            }
-          },
-          {
-            "id": "0f80989f5b4b28e8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "what's slowing down agglomeration economies"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "3b97b759bd7f5730",
+        "id": "553517b4c8a9d41d",
         "type": "tabs",
-        "dimension": 56.80515759312321,
         "children": [
           {
-            "id": "9561a13b8227fafa",
+            "id": "59474c9b8f1c681d",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -191,35 +178,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f80989f5b4b28e8",
+  "active": "c4cb787465b29c42",
   "lastOpenFiles": [
-    "East Asia and pacific.md",
     "postMidsem.pdf",
+    "what's slowing down agglomeration economies.md",
+    "Main urban trends.md",
+    "Agglomeration economies.md",
+    "why is  urban migration low ?.md",
+    "Limited rural to urban migration.md",
+    "TOPICS.md",
+    "Trends South Asia.md",
+    "resources/Pasted image 20241122005611.png",
+    "Missing Women.md",
+    "where are the effects.md",
+    "Variation across countries.md",
+    "Aging.md",
+    "Fertility in India.md",
+    "Youth Bulge.md",
     "Demographic Trends and Urbanisation.md",
-    "South Asia.md",
     "Sub saharan Africa.md",
+    "Europe and central Asia.md",
+    "South Asia.md",
+    "East Asia and pacific.md",
     "Middle East and North Africa.md",
     "Latin America and Caribbean.md",
-    "Europe and central Asia.md",
-    "Why study urbanisation.md",
     "relation between migration and urbanisation.md",
+    "Why study urbanisation.md",
     "Background.md",
-    "TOPICS.md",
     "Migration.md",
     "Migration 2.md",
-    "Consequences of migration.md",
-    "After midsem.md",
-    "population changes due to migration.md",
-    "Types of incorporation.md",
-    "Forced migration.md",
     "resources/Pasted image 20241121145321.png",
-    "Unauthorised International Migration.md",
-    "International Migration.md",
-    "Economic effects of international migration.md",
-    "Why does migration perpetuates.md",
-    "Cumulative causation.md",
-    "Recent Upheavals.md",
-    "Institutional Theory.md",
     "resources/Pasted image 20241121004442.png",
     "resources/Pasted image 20241120183208.png",
     "resources/Pasted image 20240921184933.png",
@@ -234,7 +222,6 @@
     "resources/Pasted image 20240921204517.png",
     "resources/Pasted image 20240921201235.png",
     "resources/Pasted image 20240921201026.png",
-    "resources/Pasted image 20240921200839.png",
     "resources"
   ]
 }
